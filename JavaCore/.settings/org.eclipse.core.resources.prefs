@@ -1,6 +1,15 @@
 eclipse.preferences.version=1
+encoding//src/datnt/runsystem/com/exceptions/FileNotFoundExceptionDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/exceptions/IOExceptionDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/exceptions/UnsupEncodingException.java=UTF-8
+encoding//src/datnt/runsystem/com/io/file/FileDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/io/file/FileInputStreamDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/io/file/FileOutputStreamDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/lang/StringFamilyDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/serializable/SerializableDemo.java=UTF-8
 encoding//src/datnt/runsystem/com/util/collection/Party.java=UTF-8
 encoding//src/datnt/runsystem/com/util/collection/PartyManager.java=UTF-8
 encoding//src/datnt/runsystem/com/util/collections/CollectionsDemo.java=UTF-8
 encoding//src/datnt/runsystem/com/util/datecalender/DateDemo.java=UTF-8
 encoding//src/datnt/runsystem/com/util/iterator/IteratorDemo.java=UTF-8
+encoding//src/datnt/runsystem/com/util/resourcebundle/ResourceBundleDemo.java=UTF-8
