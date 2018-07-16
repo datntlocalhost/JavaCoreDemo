@@ -27,8 +27,6 @@ public class CollectionsDemo {
 		int index = Collections.binarySearch(arrayList, "5");
 		System.out.println("index: " + index);
 		
-		
-		
 	}
 
 }
